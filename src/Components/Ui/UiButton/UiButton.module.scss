@@ -1,0 +1,16 @@
+.button {
+    padding: 15px 22px;
+    background-color: transparent;
+    border: 3px solid #CDC152;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+
+    &--dark {
+        color: #fff;
+    }
+
+    &--light {
+        color: #161616;
+    }
+}

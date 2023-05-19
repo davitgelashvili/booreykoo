@@ -1,0 +1,16 @@
+.header {
+    &--btn {
+        top: 30px;
+        position: absolute;
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+    }
+    &__burger {
+        right: 30px;
+    }
+
+    &__back {
+        left: 30px;
+    }
+}
